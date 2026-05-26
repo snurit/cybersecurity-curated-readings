@@ -7,7 +7,7 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 ### Generaliste
 - :fr: [clubic](https://www.clubic.com) : Informations tech, e-commerce, sciences, cyber, ...
 - :fr: [numerama](https://www.numerama.com/) : Infos sur les thèmes tech, société, pop culture, sciences, cyber, ...
-- :fr: [Data Security Breach](https://www.datasecuritybreach.fr/) : Infos cybersécurité, fuite de données, CTI, ...
+- :fr: [Data Security Breach](https://www.datasecuritybreach.fr/) : Infos cybersécurité, fuite de données, CTI, ... (édité par ZATAZ)
 - :gb: [wired](https://www.wired.com/category/security/) : référence internationale tech et cyber
 - :gb: [PC Mag](https://www.pcmag.com/) : Infos généralistes
 - :gb: [cybernews](https://cybernews.com/) : Infos securité, cybercrime, crypto, tech, ...
@@ -28,6 +28,10 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 - :gb: [dehashed](https://dehashed.com/) : permet de rechercher, selon différents critères, la présente d'informations dans des fuites de données (email, domaine, hash de mot de passe, ...)
 - :gb: [socradar.io](https://socradar.io/) : génère, à partir d'un domaine ou adresse email, un rapport contenant les fuites d'identifiants, les logs volés présents sur le web, mentions sur le darkweb
 - :gb: [worldmonitor](https://worldmonitor.app/) : une application en ligne qui aggrège une grande source d'informations. Comprend aussi des flux vidéos et une carte interactive géolocalisant les événements. Assez lourd en terme de ressources.
+
+### Outils
+- :gb: [shadowdragon.io](https://shadowdragon.io/free-osint-tools/) : outils gratuits relatifs à l'OSINT (checklist generator, Google Dork Assistant, email permutator, image forensics, ...)
+- :gb: [OSINT framework](https://osintframework.com/) : Framework permettant, en fonction des informations recherchées, d'identifier les outils appropriés.
 
 ## :pirate_flag: Hacking
 > Defense by offense
