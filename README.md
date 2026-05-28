@@ -32,12 +32,15 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 ### Outils
 - :gb: [shadowdragon.io](https://shadowdragon.io/free-osint-tools/) : outils gratuits relatifs à l'OSINT (checklist generator, Google Dork Assistant, email permutator, image forensics, ...)
 - :gb: [OSINT framework](https://osintframework.com/) : Framework permettant, en fonction des informations recherchées, d'identifier les outils appropriés.
+ - :gb: [Hunchly](https://hunch.ly/) : un outil pour créer vos *cases* OSINT et conserver vos *findings*. Recommandé par ZATAZ et édité par Maltego
+ - :gb: [](https://tools.osintnewsletter.com/) : Compilation d'outils OSINT classés par catégories.
 
 ## :pirate_flag: Hacking
 > Defense by offense
 ### Pentesting et hacking
 - :gb: [thehacker.recipes](https://www.thehacker.recipes/) : probablement l'un des sites les plus intéressants pour apprendre la démarche de compromission d'un système d'informations
 - :gb: [Hackaday](https://hackaday.com/) : Spécialisé en "hardware hacking" 
+
 ### Outils
 - :gb: [Exegol](https://exegol.com/) : Une suite de plus de 400 outils de pentesting qui peut s'intégrer à votre OS. Basé sur pipx. Les outils sont indépendants (containerisés) et fonctionnels en permanence. Edité par des français :rooster:
 
@@ -53,3 +56,11 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 - :gb: [Flipboard](https://flipboard.com/) : Aggrégation de liens RSS et sources d'informations
 ### GRC
 - :fr: [CISO Assistant](https://intuitem.com/fr/ciso-assistant/) : Outil d'audit GRC assez complet. Plusieurs modes de fonctionnement dont un containerisé. :rooster:
+### Sécurisation de l'AD
+- :gb: [Ping Castle](https://www.pingcastle.com/) : Audit de sécurité Windows pour environnements AD
+- :gb: [Purple Knight](https://www.semperis.com/purple-knight) : Un outil complémentaire à Ping Castle
+- :gb: [GPOZaurr](https://github.com/EvotecIT/GPOZaurr) : Audit des GPO de l'AD pour trouver les GPo orphelines, problèmes de cohérences, mots de passes dans GPO, ...
+### SOC
+- :gb: [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) : Suite d'outils pour la qualification d'artefacts (nom d'application, adresse IP, URL, hash MD5, ...). Similaire à *VirusTotal*
+- :gb: [VirusTotal](https://www.virustotal.com/gui/home/upload) : Outil d'analyse de fichiers, URL et autres artefacts pour qualifier une possible menace. Similaire à *IBM X-Force Exchange*
+- :gb: [AbuseIPDB](https://www.abuseipdb.com) : base de données d'adresse IP malveillante. Permet à la fois de rechercher si une IP est dans la base et de signaler une IP malveillante.
