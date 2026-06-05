@@ -16,6 +16,7 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 - :gb: [thecyberexpress.com](https://thecyberexpress.com/) : Une foule d'infos intéressantes, y compris en matière de conformité et gouvernance
 - :gb: [reuters.com](https://www.reuters.com/technology/cybersecurity/) : Edition de l'agence Reuters, catégorie cybersécurité
 - :fr: [korben.info](https://korben.info/) : infos généralistes
+- :gb: [Bleepingcomputer.com](https://www.bleepingcomputer.com/) : Informations IT et cybersécurité
 
 ### Fuite de données, OSINT, ...
 - :fr: [zataz](https://www.zataz.com) : Toutes les dernières infos en ce qui concerne les fuites de données. Comprend également quelques outils intéressants de sensibilisation et de diagnostics
@@ -33,7 +34,8 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 - :gb: [shadowdragon.io](https://shadowdragon.io/free-osint-tools/) : outils gratuits relatifs à l'OSINT (checklist generator, Google Dork Assistant, email permutator, image forensics, ...)
 - :gb: [OSINT framework](https://osintframework.com/) : Framework permettant, en fonction des informations recherchées, d'identifier les outils appropriés.
  - :gb: [Hunchly](https://hunch.ly/) : un outil pour créer vos *cases* OSINT et conserver vos *findings*. Recommandé par ZATAZ et édité par Maltego
- - :gb: [](https://tools.osintnewsletter.com/) : Compilation d'outils OSINT classés par catégories.
+ - :gb: [OSINT Newsletter](https://tools.osintnewsletter.com/) : Compilation d'outils OSINT classés par catégories
+ - :gb: [Leaked Domains](https://leaked.domains/) : Site permettant de faire une analyse des données ayant fuité par domaine, email, ...
 
 ## :pirate_flag: Hacking
 > Defense by offense
