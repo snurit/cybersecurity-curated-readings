@@ -5,6 +5,7 @@
 > Sites spécialisés en pentesting, hacking et autres techniques ou informations relatives au Red Teaming
 - :gb: [thehacker.recipes](https://www.thehacker.recipes/) : probablement l'un des sites les plus intéressants pour apprendre la démarche de compromission d'un système d'informations
 - :gb: [Hackaday](https://hackaday.com/) : Spécialisé en "hardware hacking"
+- :fr: [Le Blog du Hacker](https://www.leblogduhacker.fr/) : un certain nombre de ressources à but éducatif et informationnel
 
 ### :wrench: Outils
 - :gb: [Exegol](https://exegol.com/) : Une suite de plus de 400 outils de pentesting qui peut s'intégrer à votre OS. Basé sur pipx. Les outils sont indépendants (containerisés) et fonctionnels en permanence. Edité par des français :rooster:
