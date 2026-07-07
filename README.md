@@ -22,6 +22,7 @@ La pluspart de ces ressources sont gratuites ou nécessitent la création d'un c
 - :fr: [korben.info](https://korben.info/) : infos généralistes
 - :gb: [Bleepingcomputer.com](https://www.bleepingcomputer.com/) : Informations IT et cybersécurité
 - :fr: [it-connect](https://www.it-connect.fr/) : comprend des tutoriaux IT (dont cybersécurité), des news et autres ressources
+- :fr: [01.net](https://www.01net.com) : site d'information généraliste IT
 
 ## Aggrégateurs d'informations
 - :gb: [Feedly](https://feedly.com/) : Aggrégation de liens RSS et sources d'informations

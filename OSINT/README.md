@@ -16,3 +16,5 @@
  - :gb: [Hunchly](https://hunch.ly/) : un outil pour créer vos *cases* OSINT et conserver vos *findings*. Recommandé par ZATAZ et édité par Maltego
  - :gb: [OSINT Newsletter](https://tools.osintnewsletter.com/) : Compilation d'outils OSINT classés par catégories
  - :gb: [Leaked Domains](https://leaked.domains/) : Site permettant de faire une analyse des données ayant fuité par domaine, email, ...
+ - :gb: [leak-lookup](https://leak-lookup.com/) : Liste les occurrences d'un email, domaine, ... dans les bases de données ayant fait l'objet de leaks. La version gratuite ne permet pas de consulter les détails mais permet au moins de faire un tri par date ou par colonne de contenu du leak.
+ - :gb: [Antipublic.net](https://antipublic.net/) : permet la recherche par domaine, adresse mail, ... La version gratuite ne permet pas d'afficher les infos qui ont leaké mais permet à minima d'afficher les comptes (adresses emails) compromises. Peut être intéressant en recoupant les infos avec [socradar.io](https://socradar.io) qui affiche d'autres infos mais masque une partie de l'adresse mail compromise
